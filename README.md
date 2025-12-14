@@ -48,10 +48,10 @@ AI Fruit Ninja is a real-time computer vision application that demonstrates prac
 ## 🎥 Demo
 
 ### Gameplay Preview
-<img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/14b822fb-cb97-41c8-af15-117d27a56f28" />
-<img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/3dbbc398-0318-45c4-b97b-2e09f96c5218" />
-<img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/4f65cbaa-af26-4877-b47e-fe0bc7031dea" />
-<img width="300" height="260" alt="image" src="https://github.com/user-attachments/assets/8650c5d4-90cc-47a7-8b78-4c7447ffe9d9" />
+<img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/14b822fb-cb97-41c8-af15-117d27a56f28" />
+<img width="500" height="360" alt="image" src="https://github.com/user-attachments/assets/3dbbc398-0318-45c4-b97b-2e09f96c5218" />
+<img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/4f65cbaa-af26-4877-b47e-fe0bc7031dea" />
+<img width="500" height="460" alt="image" src="https://github.com/user-attachments/assets/8650c5d4-90cc-47a7-8b78-4c7447ffe9d9" />
 
 
 ### How to Play!
