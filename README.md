@@ -52,7 +52,8 @@ AI Fruit Ninja is a real-time computer vision application that demonstrates prac
 <img width="700" height="660" src="https://github.com/user-attachments/assets/14b822fb-cb97-41c8-af15-117d27a56f28" />
 <img width="700" height="550" src="https://github.com/user-attachments/assets/3dbbc398-0318-45c4-b97b-2e09f96c5218" />
 <img width="700" height="660" src="https://github.com/user-attachments/assets/4f65cbaa-af26-4877-b47e-fe0bc7031dea" />
-<img width="700" height="660" src="https://github.com/user-attachments/assets/8650c5d4-90cc-47a7-8b78-4c744fffe9d9" />
+<img width="700" height="660" alt="image" src="https://github.com/user-attachments/assets/b60e3f1c-233b-4036-9122-53543fe6dca1" />
+
 
 ### How to Play!
 1. Show your hand to the camera
