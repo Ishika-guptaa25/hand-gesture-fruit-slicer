@@ -50,18 +50,9 @@ AI Fruit Ninja is a real-time computer vision application that demonstrates prac
 ### Gameplay Preview
 
 <img width="700" height="660" src="https://github.com/user-attachments/assets/14b822fb-cb97-41c8-af15-117d27a56f28" />
-**Fig 1:** Hand gesture detected and game initialized.
-
 <img width="700" height="550" src="https://github.com/user-attachments/assets/3dbbc398-0318-45c4-b97b-2e09f96c5218" />
-**Fig 2:** Player slicing objects using hand movement.
-
 <img width="700" height="660" src="https://github.com/user-attachments/assets/4f65cbaa-af26-4877-b47e-fe0bc7031dea" />
-**Fig 3:** Score increases when correct gesture is detected.
-
 <img width="700" height="660" src="https://github.com/user-attachments/assets/8650c5d4-90cc-47a7-8b78-4c744fffe9d9" />
-**Fig 4:** Game over screen with final score.
-
-
 
 ### How to Play!
 1. Show your hand to the camera
